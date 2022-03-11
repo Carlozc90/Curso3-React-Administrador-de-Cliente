@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos",
+      "empresa": "netplay2",
+      "email": "Carlozc90@gmail.com",
+      "telefono": "9876543213",
+      "notas": "games ceo\n",
+      "id": 1
+    }
+  ]
+}
